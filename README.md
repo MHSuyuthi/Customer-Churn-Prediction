@@ -1,1 +1,3 @@
 # Customer-Churn-Prediction
+
+Proyek ini bertujuan untuk membuat model prediksi yang akab memprediksi pengguna akan berhenti atau tidak. Algoritma yang kita pilih untuk model adalah ANN Sequential yang telah di improve. Algoritma tersebut memiliki 3 layer dengan nilai neuron berurutan 32,16, dan 8. Algoritma tersebut menghasilkan nilai akurasi yang sama dengan sequential tanpa improvment (0,93) akan tetapi algoritma tersebut memiliki nilai recall pada target 1 yang tinggi (0.95) dibandingkan sequential tanpa improvement (0.94)
